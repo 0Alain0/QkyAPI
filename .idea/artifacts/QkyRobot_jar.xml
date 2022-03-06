@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QkyRobot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QkyRobot_jar</output-path>
+    <root id="archive" name="QkyRobot.jar">
+      <element id="module-output" name="QkyRobot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../gson-2.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
